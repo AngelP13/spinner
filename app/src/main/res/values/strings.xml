@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">spinner</string>
+    <string name="txtpregunta">Escoger 5 frutas</string>
+    <string name="spinner_1">objetos</string>
+    <string name="txtRespuesta">Respuesta</string>
+    <string name="btn_enviar">Responder</string>
+</resources>
